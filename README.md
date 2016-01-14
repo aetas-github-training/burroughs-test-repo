@@ -2,4 +2,4 @@
 
 Hello my name is Alexis and this is my repository
 
-My course partner is 
+My course partner is Rob Cole
